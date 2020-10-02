@@ -17,15 +17,15 @@ body{
   left: 25%;
   width: 50%;
   height: 67%;
-  background: #A6BECF;
-  border-radius: 50%;
+  background: #F1F7E3;
+  border-radius: 40%;
 }
 
 .head-copy{
   width: 100%;
   height: 100%;
   position: absolute;
-  background: #A6BECF;
+  background: #F1F7E3;
   border-radius: 50%;
   z-index: 2;
 }
@@ -130,12 +130,12 @@ body{
 
 .nose{
   position: absolute;
-  background: #BE845F;
+  background: #8C6B61;
   width: 25%;
   height: 42.5%;
   left: 37%;
   top: 45%;
-  border-radius: 50px;
+  border-radius: 0px;
   z-index: 4;
 }
 
