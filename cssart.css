@@ -1,6 +1,9 @@
 body{
   background: #25A9FC;
 }
+h1 {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
 .box{
   position: relative;
   margin: auto;
